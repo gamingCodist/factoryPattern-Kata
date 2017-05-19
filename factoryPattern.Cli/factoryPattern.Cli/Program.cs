@@ -1,4 +1,5 @@
 ﻿using System;
+using factoryPattern.Cli.Model.Domain.Vehicle;
 
 namespace factoryPattern.Cli
 {
